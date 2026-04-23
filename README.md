@@ -1,2 +1,2 @@
 # javaScript-l
-javaScript l: algoritimos de ordenação 
+javaScript l: algoritimos de ordenação :P
